@@ -28,6 +28,3 @@ jobs:
           publish_dir: ./site
 
 
-extra:
-  support_link: https://your-payment-link-here
-
