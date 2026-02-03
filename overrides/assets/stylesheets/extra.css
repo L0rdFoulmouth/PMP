@@ -1,5 +1,1 @@
 
-/* Hide support button when TOC is rendered in the left sidebar */
-.md-sidebar--secondary .support-button {
-  display: none;
-}
