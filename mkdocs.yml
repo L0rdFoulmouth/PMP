@@ -3,6 +3,8 @@ site_name: PMP Study Notes
 theme:
   name: material
   custom_dir: docs/overrides
+  features:
+    - toc.integrate
 
   palette:
     - scheme: default
