@@ -9,3 +9,7 @@ theme:
     - scheme: slate
       primary: indigo
       accent: blue
+
+extra:
+  support_link: https://your-payment-link-here
+
